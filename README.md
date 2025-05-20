@@ -8,11 +8,17 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 1.Import the necessary libraries
+
 2.Load the dataset using sklearn.datasets()
+
 3.Convert the dataset into a dataframe
+
 4.Define the input and target variable
+
 5.Split the dataset into training and testing data
+
 6.Train the model using SGDClassifier(),.fit() and predict using .predict()
+
 7.Measure the accuracy of the model using accuracy_score() and confusion_matrix()
 
 ## Program:
